@@ -7,4 +7,4 @@ Con el pasar del tiempo los cuadros van adquiriendo formas complejas.
 
 Para iniciarlo hay que clicar en el archivo **index.html** y cargará el navegador.
 
-**Es recomendable usar los ultimos navegadores disponibles como chrome, firefox. etc.**
+**Es recomendable usar los últimos navegadores disponibles como, chrome, firefox, etc.**
